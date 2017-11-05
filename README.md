@@ -1,4 +1,4 @@
-# Homo-sapiens
+# HomoSapiens
 
 CIR-KITに生息してる四足歩行ロボットのドライバです。
 ROSを使っても使わなくても動かせるようにするつもりです。
