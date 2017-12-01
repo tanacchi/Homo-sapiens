@@ -1,0 +1,5 @@
+!.gitkeep
+
+*/build*
+*/devel
+.catkin_workspace
